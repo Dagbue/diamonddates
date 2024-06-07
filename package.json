@@ -11,7 +11,13 @@
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
-    "vuex": "^4.0.0"
+    "vuex": "^4.0.0",
+    "@firebase/firestore": "^3.4.3",
+    "axios": "^0.24.0",
+    "boxicons": "^2.1.1",
+    "firebase": "^9.6.7",
+    "sweetalert2": "^11.7.20",
+    "vue-sweetalert2": "^5.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
