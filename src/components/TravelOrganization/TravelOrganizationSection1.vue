@@ -11,7 +11,7 @@
         <div id="contact-form" class="contact-form">
           <h1 class="contact-form_title">Find Of A Travel Partner</h1>
           <p class="contact-form_paragraph">Are you planning to go on vacation and are looking for a beautiful girl
-            who can maintain a pleasant atmosphere during it? Then contact the Diamond Dates agency to arrange a
+            who can maintain a pleasant atmosphere during it? Then contact the Allure Affiliations agency to arrange a
             turnkey trip. We will plan the best route for you and select a stunning companion.</p>
 
           <button class="button">

@@ -1,9 +1,9 @@
 <template>
   <div class="alpha">
-    <p class="section-header-1">Find a kept woman in the Diamond Dates agency</p>
+    <p class="section-header-1">Find a kept woman in the Allure Affiliations agency</p>
     <p class="section-header">Are you a successful wealthy man, and you have everything you need, but still feel that
       something is missing? We know what exactly - a beautiful partner who will give you affection, passion,
-      attention, care and sincere love. Therefore, we strongly recommend you to contact us at the Diamond Dates
+      attention, care and sincere love. Therefore, we strongly recommend you to contact us at the Allure Affiliations
       agency and find a kept woman who will make you the happiest person ever.</p>
 
 
@@ -46,7 +46,7 @@
     <p style="margin-top: 3%;" class="section-header-1">Find a Top model for relationship of convenience</p>
 
     <p class="section-header-2">If you want to find a Top model for relationship of convenience, then the best
-      solution would be to contact the Diamond Dates agency. After all, only we can safely call ourselves an
+      solution would be to contact the Allure Affiliations agency. After all, only we can safely call ourselves an
       agency that cooperates with the most spectacular and hot girls. Among them, there is definitely the girl for
       whom you can become a sponsor, and she will turn your life into a bright fairy tale, full of love and sincere
       feelings.</p>

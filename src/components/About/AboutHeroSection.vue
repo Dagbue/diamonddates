@@ -11,9 +11,9 @@
         <div class="text-part">
 <!--          <p class="text-3">About Us</p>-->
 
-          <p class="text-1">FIND A KEPT WOMAN WITH THE DIAMOND DARES AGENCY.</p>
+          <p class="text-1">FIND A KEPT WOMAN WITH THE ALLURE AFFILIATIONS AGENCY.</p>
           <p class="text-2">Taking into account all the advantages and the best conditions of cooperation with
-            the Diamond Dates Kept Women agency, we are sure you will become one of  our regulars.</p>
+            the allure affiliations Kept Women agency, we are sure you will become one of  our regulars.</p>
 
 <!--          <div class="button-part">-->
 <!--            <button class="btn1" @click="onPostClick2">Login Account</button>-->

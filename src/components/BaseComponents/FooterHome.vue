@@ -33,7 +33,8 @@
           <div class="footer-link-container">
             <h3 class="footer-title">About Us</h3>
             <p class="footer-link width">
-              Diamond Dates is the largest luxury and secured connection site for the beautiful, wealthy, and successful individuals in over 60 countries.
+              Allure Affiliations is the largest luxury and secured connection site for the beautiful, wealthy,
+              and successful individuals in over 60 countries.
             </p>
 
             <div class="social">
@@ -47,7 +48,8 @@
             </div>
 
             <p class="footer-link width">
-              MEMBERS OF DIAMOND DATES ARE NOT SUBJECT TO MANDATORY BACKGROUND SCREENINGS BUT HAVE THE OPTION TO SUBMIT FOR A BACKGROUND CHECK AND/OR ID VERIFICATION.
+              MEMBERS OF ALLURE AFFILIATIONS ARE NOT SUBJECT TO MANDATORY BACKGROUND SCREENINGS BUT HAVE THE OPTION TO
+              SUBMIT FOR A BACKGROUND CHECK AND/OR ID VERIFICATION.
             </p>
           </div>
 
@@ -79,7 +81,7 @@
               <div class="social-logo">
                 <div class="last-div">
                   <i class='bx bx-mail-send' style='color:#ffffff'></i>
-                  <p class="last-div-para">support@matchconnecting.com</p>
+                  <p class="last-div-para">support@allureaffiliations.com</p>
                 </div>
               </div>
             </div>
@@ -89,7 +91,7 @@
       </div>
       <hr />
       <p class="copyright">
-        © 2009 Match Connecting | All Rights Reserved
+        © 2009 Allure Affiliations | All Rights Reserved
       </p>
     </div>
 

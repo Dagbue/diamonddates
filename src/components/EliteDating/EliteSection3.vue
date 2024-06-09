@@ -1,8 +1,8 @@
 <template>
   <div class="alpha">
-    <p class="section-header-1">Meet the models at the Diamond Dates agency</p>
+    <p class="section-header-1">Meet the models at the Allure Affiliations agency</p>
     <p class="section-header">As we've said, the most beautiful girls from all over the world work with us, This means
-      that only through our Diamond Dates agency you can get acquainted with the current model, of any appearance, of
+      that only through our Allure Affiliations agency you can get acquainted with the current model, of any appearance, of
       any age, and level of education. For a man, these criteria are very important, especially if a partner is being
       selected for a relationship.</p>
 

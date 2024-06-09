@@ -5,7 +5,7 @@
       <div class="seperate mobile">
         <p class="download-sub"><a
             style="color: #000000;"
-            href="mailto:support@diamonddates.com">support@diamonddates.com</a></p>
+            href="mailto:support@allureaffiliations.com">support@allureaffiliations.com</a></p>
       </div>
       <div class="seperate mobile">
         <p class="download-sub">53 Bristol Road Bristol Road, Chippenham, England, SN15 1NT</p>
@@ -173,7 +173,7 @@ i{
   }
 
   .alpha-2{
-    width: 420px;
+    width: 400px;
   }
 
   .download-sub{

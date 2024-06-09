@@ -2,9 +2,9 @@
   <div class="alpha">
 
     <div class="section-1">
-      <h2 class="text-1" style="text-align: center;">DIAMOND DATES AGENCY</h2>
+      <h2 class="text-1" style="text-align: center;">ALLURE AFFILIATIONS AGENCY</h2>
       <p class="text-2">
-        Diamond Dates Agency offers an exceptional blend of services, encompassing concierge assistance in
+        Allure Affiliations Agency offers an exceptional blend of services, encompassing concierge assistance in
         personal relationships, leisure activities, social introductions, and talent scouting for modeling and dating.</p>
     </div>
 

@@ -271,16 +271,15 @@ export default {
 }
 
 .logo {
-  width: 4%;
-  /*margin-left: 6%;*/
-  margin-top: 1%;
-  margin-bottom: 1%;
+  width: 15%;
+  margin-top: 0.25%;
+  margin-bottom: 0.25%;
 }
 
 .style-4 {
   display: flex;
   justify-content: space-between;
-  margin-left: 12%;
+  margin-left: 7%;
   /*justify-content: space-between;*/
   /*align-content: center;*/
   /*align-items: center;*/

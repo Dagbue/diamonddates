@@ -343,6 +343,11 @@
                 </select>
               </div>
 
+              <div class="split">
+                <p class="label-input">Phone number</p>
+                <input type="number" v-model="phoneNumber"  required placeholder="Phone number"  />
+              </div>
+
 
 
               <div class="split">
@@ -407,6 +412,7 @@ export default {
       lastName: "",
       message: "",
       lookingFor: "",
+      phoneNumber: "",
       loading: false,  // This will track whether the form is sending or not
     };
   },
@@ -450,6 +456,7 @@ export default {
           state: this.state,
           message: this.message,
           lookingFor: this.lookingFor,
+          phoneNumber: this.phoneNumber,
           // createdAt: serverTimestamp(),
         }, { merge: true });
 
@@ -480,6 +487,7 @@ export default {
       this.country = '';
       this.state = '';
       this.message = '';
+      this.phoneNumber = '';
       this.lookingFor = '';
     },
 
@@ -519,6 +527,7 @@ export default {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 12px;
 }
 
 .contact-form {
@@ -564,6 +573,7 @@ export default {
 
 .contact-form input[type="email"],
 .contact-form input[type="text"],
+.contact-form input[type="number"],
 .contact-form textarea {
   padding: 11px 16px;
   margin-bottom: 15px;
@@ -571,7 +581,9 @@ export default {
   outline: none;
   width: 100%;
   border-radius: 12px;
+  color: #475467;
 }
+
 
 .contact-form select{
   padding: 11px 16px;
@@ -609,6 +621,7 @@ export default {
 .contact-form input[type="email"],
 .contact-form input[type="text"],
 .contact-form input[type="checkbox"],
+.contact-form input[type="number"],
 .contact-form textarea,
 .contact-form .button {
   font-size: 15px;

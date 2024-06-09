@@ -11,7 +11,7 @@
         <div id="contact-form" class="contact-form">
           <h1 class="contact-form_title">Find Of A Kept Woman</h1>
           <p class="contact-form_paragraph">Would you like to have a relationship of convenience with a stunning girl?
-            Then contact the Diamond Dates agency! We will personally find of a kept woman according to your
+            Then contact the Allure Affiliations agency! We will personally find of a kept woman according to your
             criteria, and your life will sparkle with new bright colors.</p>
 
           <button class="button">

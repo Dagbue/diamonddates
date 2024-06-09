@@ -3,7 +3,7 @@
 
     <p class="section-header-1">SERVICES</p>
     <p class="section-header">
-      Diamond Dates Agency offers a premier blend of concierge-style services, personal development
+      Allure Affiliations Agency offers a premier blend of concierge-style services, personal development
       training, and image and lifestyle coaching. Additionally, we function as a production hub for modeling and
       the entertainment industry.
     </p>
@@ -16,7 +16,7 @@
         <div class="box">
           <img src="https://luxury-girls-monaco.com/wp-content/uploads/2022/03/Girls-who-found-relationships-on-the-content.jpg" class="about-image" alt="assets-image"/>
           <h3>FIND A KEPT WOMAN</h3>
-          <p>Looking for a stunning companion? Contact Diamond Dates agency! We'll match you with the perfect partner to brighten your life.</p>
+          <p>Looking for a stunning companion? Contact Allure Affiliations agency! We'll match you with the perfect partner to brighten your life.</p>
         </div>
         <div class="box">
           <img src="https://interescort-monaco.com/bitrix/templates/interescort_sites/assets/img/content/img%20service_04.jpg" class="about-image" alt="assets-image"/>

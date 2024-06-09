@@ -42,7 +42,7 @@
     <div  class="dropdown-nav-2" v-show="mobileNav" >
 
       <div class="logo">
-        <img src="@/assets/logo.png" alt="logo" class="afo-logo" />
+        <img src="@/assets/logo.png" alt="logo" class="afo-logo-2" />
       </div>
 
 
@@ -50,14 +50,14 @@
         <li @click="toggleMobileNav2">
           <a>
             <img src="@/assets/dashboardlogo.svg" alt="logo" class="link-img" />
-            <router-link to="/list-of-users" class="">List Of Users</router-link>
+            <router-link to="/list-of-users" class="">List of Users</router-link>
           </a>
         </li>
 
         <li @click="toggleMobileNav2">
           <a>
             <img src="@/assets/dashboardlogo.svg" alt="logo" class="link-img" />
-            <router-link to="/list-of-messages" class="">Message</router-link>
+            <router-link to="/list-of-messages" class="">Contact Message</router-link>
           </a>
         </li>
 
@@ -147,7 +147,9 @@ export default {
   display: flex;
 }
 .afo-logo{
-  width: 25%;
+  width: 100%;
+  background-color: #FFFFFF;
+  border-radius: 8px;
 }
 .afo-logo-2{
   width: 80%;
@@ -213,8 +215,8 @@ body{
   border-radius: 4px;
 }
 .link-img{
-  margin-right: 5%;
-  width: 12%;
+  margin-right: 2.5%;
+  /*width: 12%;*/
 }
 .links-name{
   font-size: 16px;
@@ -302,7 +304,7 @@ body{
   /*height: 100%;*/
   background-color: #1F1F2A;
   font-size: 16px;
-  text-align: center;
+  /*text-align: center;*/
 }
 .dropdown-nav-2 li {
   overflow: hidden;
@@ -312,9 +314,10 @@ body{
 }
 .dropdown-nav-2 ul {
   /*padding-top: 25%;*/
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
+  /*display: block;*/
+  /*margin-right: auto;*/
+  /*margin-left: auto;*/
+  margin-left: 12%;
 }
 .dropdown-nav-2 a {
   padding: 0.55em 0;

@@ -45,6 +45,7 @@
             <th>Age</th>
             <th>Country</th>
             <th>State</th>
+            <th>Phone Number</th>
             <th>message</th>
             <th>lookingFor</th>
 
@@ -74,6 +75,7 @@
             <td data-label="Age">{{child.age}}</td>
             <td data-label="Country">{{child.country}}</td>
             <td data-label="State">{{child.state}}</td>
+            <td data-label="phoneNumber">{{child.phoneNumber}}</td>
             <td data-label="message">{{child.message}}</td>
             <td data-label="lookingFor">{{child.lookingFor}}</td>
           </tr>
@@ -139,6 +141,7 @@ export default {
               user.age.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
               user.country.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
               user.state.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
+              user.phoneNumber.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
               user.message.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
               user.lookingFor.toLowerCase().includes(this.searchQuery.toLowerCase())
           ) : this.history;
@@ -155,6 +158,7 @@ export default {
               user.age.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
               user.country.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
               user.state.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
+              user.phoneNumber.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
               user.message.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
               user.lookingFor.toLowerCase().includes(this.searchQuery.toLowerCase())
           ) : this.history;
@@ -202,6 +206,7 @@ export default {
           'age': doc.data().age,
           'country': doc.data().country,
           'state': doc.data().state,
+          'phoneNumber': doc.data().phoneNumber,
           'message': doc.data().message,
           'lookingFor': doc.data().lookingFor,
         };

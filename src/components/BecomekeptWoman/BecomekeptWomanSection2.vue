@@ -1,6 +1,6 @@
 <template>
   <div class="alpha">
-    <p class="section-header-1">Here is what elite kept women from the Diamond Dates agency get.</p>
+    <p class="section-header-1">Here is what elite kept women from the Allure Affiliations agency get.</p>
 <!--        <p class="section-header">You decide what to trade and when to trade it. We’re hard at work behind the scenes to-->
 <!--          minimize your costs and improve your execution.</p>-->
 

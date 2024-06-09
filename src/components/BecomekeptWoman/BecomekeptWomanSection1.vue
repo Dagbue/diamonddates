@@ -11,7 +11,7 @@
         <div id="contact-form" class="contact-form">
 <!--          <h1 class="contact-form_title">Elite Dating WorldWide</h1>-->
           <p class="contact-form_paragraph">Do you want to live a beautiful life next to a very wealthy man? Then
-            contact the Diamond Dates agency and we will help you become a kept woman. This is a real and unique
+            contact the Allure Affiliations agency and we will help you become a kept woman. This is a real and unique
             chance to start a relationship with a rich man, improve your financial situation and never deny yourself
             anything else.</p>
 

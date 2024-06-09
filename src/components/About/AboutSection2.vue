@@ -41,7 +41,7 @@
       <div class="box">
         <img src="https://interescort-monaco.com/bitrix/templates/interescort_sites/assets/img/content/img_pochemu_04.jpg" class="about-image" alt="image"/>
         <h3>WE VALUE OUR CLIENTS :</h3>
-        <p>Diamond Dates Agency members enjoy benefits such as discounts, exclusive offers and gifts, as well as a whole lot more (join to find out) .</p>
+        <p>Allure Affiliations Agency members enjoy benefits such as discounts, exclusive offers and gifts, as well as a whole lot more (join to find out) .</p>
       </div>
       <div class="box">
         <img src="https://interescort-monaco.com/bitrix/templates/interescort_sites/assets/img/content/img_pochemu_05.jpg" class="about-image" alt="image"/>

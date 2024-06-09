@@ -1,9 +1,9 @@
 <template>
   <div class="alpha">
-    <p class="section-header-1">Find Kept Women from the Diamond Dates agency for successful men.</p>
+    <p class="section-header-1">Find Kept Women from the Allure Affiliations agency for successful men.</p>
     <p class="section-header">
 
-      Diamond Dates is a premier agency catering to discerning gentlemen who seek exceptional Kept Women services.
+      Allure Affiliations is a premier agency catering to discerning gentlemen who seek exceptional Kept Women services.
       Our mission is to thoroughly fulfill your preferences with an unparalleled level of personalized service.
       We are committed to delivering the utmost in quality, focusing on individual needs and meticulous attention
       to detail.
@@ -19,10 +19,10 @@
           <p class="text-2">A huge catalogue of candidates of all criteria.</p>
         </div>
 
-        <div class="text-part">
-          <p class="text-1">Available price from $ 999</p>
-          <p class="text-2">Only LUX escort models and VIP girls.</p>
-        </div>
+<!--        <div class="text-part">-->
+<!--          <p class="text-1">Available price from $ 999</p>-->
+<!--          <p class="text-2">Only LUX escort models and VIP girls.</p>-->
+<!--        </div>-->
 
         <div class="text-part">
           <p class="text-1">Elite Kept Women for any occasion</p>
