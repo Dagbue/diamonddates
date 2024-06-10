@@ -20,7 +20,7 @@
 <!--          </div>-->
 
           <div class="button-group">
-            <div class="btn-1">
+            <div class="btn-1" @click="onPostClick">
               Send a Request
               <!--            <img src="@/assets/arrow-right-line.svg" alt="" class="" />-->
             </div>
@@ -50,10 +50,8 @@ export default {
   name: "AboutHeroSection",
   methods: {
     onPostClick() {
-      this.$router.push("/register");
-    },
-    onPostClick2() {
-      this.$router.push("/login");
+      this.$router.push("/requestView");
+      window.scrollTo(0, 0);
     },
   },
 }

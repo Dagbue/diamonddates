@@ -14,7 +14,7 @@
             Then contact the Allure Affiliations agency! We will personally find of a kept woman according to your
             criteria, and your life will sparkle with new bright colors.</p>
 
-          <button class="button">
+          <button class="button" @click="onPostClick">
             Send a Request
             <!--            <img src="@/assets/arrow-right-line.svg" alt="btn-image" class="btn-image" />-->
           </button>
@@ -30,7 +30,13 @@
 
 <script>
 export default {
-  name: "FindAKeptWomanSection1"
+  name: "FindAKeptWomanSection1",
+  methods: {
+    onPostClick() {
+      this.$router.push("/requestView");
+      window.scrollTo(0, 0);
+    },
+  },
 }
 </script>
 

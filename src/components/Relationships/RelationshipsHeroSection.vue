@@ -11,7 +11,7 @@
 
 
         <div class="button-group">
-          <div class="btn-1">
+          <div class="btn-1" @click="onPostClick">
             Send a Request
             <!--            <img src="@/assets/arrow-right-line.svg" alt="" class="" />-->
           </div>
@@ -35,7 +35,13 @@
 
 <script>
 export default {
-  name: "RelationshipsHeroSection"
+  name: "RelationshipsHeroSection",
+  methods: {
+    onPostClick() {
+      this.$router.push("/requestView");
+      window.scrollTo(0, 0);
+    },
+  },
 }
 </script>
 

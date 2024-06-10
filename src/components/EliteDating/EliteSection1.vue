@@ -14,7 +14,7 @@
             our agency offers elite dating. This unique service will allow you to meet your ideal girlfriend for any
             purpose: romantic friendship, relationship or starting a family.</p>
 
-          <button class="button">
+          <button class="button" @click="onPostClick">
             Send a Request
 <!--            <img src="@/assets/arrow-right-line.svg" alt="btn-image" class="btn-image" />-->
           </button>
@@ -30,7 +30,13 @@
 
 <script>
 export default {
-  name: "EliteSection1"
+  name: "EliteSection1",
+  methods: {
+    onPostClick() {
+      this.$router.push("/requestView");
+      window.scrollTo(0, 0);
+    },
+  },
 }
 </script>
 

@@ -9,7 +9,7 @@
         </p>
 
         <p class="topmost-header-text">
-          <i class='bx bxs-time-five' ></i>Mon – Sat: 9:00am–18:00pm.
+          <i class='bx bxs-time-five' ></i>Mon – Sun : 24hours.
         </p>
 
 <!--        <p class="topmost-header-text">-->
@@ -414,8 +414,11 @@ i{
 }
 
 .logo2{
-  padding-top: 5%;
-  width: 25%;
+  width: 70%;
+  background-color: #FFFFFF;
+  padding: 3px 20px 3px 12px;
+  margin-top: 3%;
+  border-radius: 12px;
 }
 
 .dropdown-nav li {

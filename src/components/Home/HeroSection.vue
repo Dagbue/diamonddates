@@ -4,8 +4,7 @@
     <div class="section-alpha">
 
       <div class="section-1">
-        <div class="text-1">SPECIAL FOR YOU <br> ELITE KEPT WOMEN</div>
-
+        <div class="text-1">BECOME A <br/> KEPT WOMAN</div>
 
         <p class="text-2">Experience our premier specialist services immediately by completing a <br/>
           quick and easy request form to schedule your appointment.</p>
@@ -14,7 +13,7 @@
 
 
         <div class="button-group">
-          <div class="btn-1">
+          <div class="btn-1" @click="onPostClick">
             Send a Request
 <!--            <img src="@/assets/arrow-right-line.svg" alt="" class="" />-->
           </div>
@@ -43,7 +42,10 @@ export default {
   //   clearInterval(this.intervalId);
   // },
   methods: {
-
+    onPostClick() {
+      this.$router.push("/requestView");
+      window.scrollTo(0, 0);
+    },
   }
 }
 </script>

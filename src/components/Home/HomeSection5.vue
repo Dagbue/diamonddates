@@ -64,9 +64,11 @@ export default {
   methods: {
     onPostClick() {
       this.$router.push("/register");
+      window.scrollTo(0, 0);
     },
     onPostClick2() {
       this.$router.push("/login");
+      window.scrollTo(0, 0);
     },
   },
 }

@@ -119,7 +119,7 @@ export default {
   name: "RelationshipsSection3",
   methods: {
     onPostClick() {
-      this.$router.push("/register");
+      this.$router.push("/requestView");
       window.scrollTo(0, 0);
     },
   },

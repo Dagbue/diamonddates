@@ -39,7 +39,7 @@
 
     <div class="btn-part">
 <!--      <div class="btn-1" @click="onPostClick">Create Account</div>-->
-      <p class="btn-2" @click="onPostClick2">Send a Request</p>
+      <p class="btn-2" @click="onPostClick">Send a Request</p>
     </div>
 
 
@@ -51,10 +51,8 @@ export default {
   name: "HomeSection1",
   methods: {
     onPostClick() {
-      this.$router.push("/register");
-    },
-    onPostClick2() {
-      this.$router.push("/login");
+      this.$router.push("/requestView");
+      window.scrollTo(0, 0);
     },
   },
 }

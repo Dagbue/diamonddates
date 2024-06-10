@@ -39,7 +39,7 @@
 
     <div class="btn-part">
       <!--      <div class="btn-1" @click="onPostClick">Create Account</div>-->
-      <p class="btn-2" @click="onPostClick2">Send a Request</p>
+      <p class="btn-2" @click="onPostClick">Send a Request</p>
     </div>
 
   </div>
@@ -47,7 +47,13 @@
 
 <script>
 export default {
-  name: "RelationshipsSection2"
+  name: "RelationshipsSection2",
+  methods: {
+    onPostClick() {
+      this.$router.push("/requestView");
+      window.scrollTo(0, 0);
+    },
+  },
 }
 </script>
 

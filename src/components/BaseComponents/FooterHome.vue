@@ -1,28 +1,28 @@
 <template>
   <div class="alpha">
 
-    <div class="section-1">
+<!--    <div class="section-1">-->
 
-      <div class="section-1-content">
-        <p class="section-1-header">As Featured In</p>
-      </div>
+<!--      <div class="section-1-content">-->
+<!--        <p class="section-1-header">As Featured In</p>-->
+<!--      </div>-->
 
-      <div class="section-1-images">
-        <img src="@/assets/BI.svg" alt="" class="section-1-image" />
+<!--      <div class="section-1-images">-->
+<!--        <img src="@/assets/BI.svg" alt="" class="section-1-image" />-->
 
-        <img src="@/assets/cnn.svg" alt="" class="section-1-image" />
+<!--&lt;!&ndash;        <img src="@/assets/cnn.svg" alt="" class="section-1-image" />&ndash;&gt;-->
 
-        <img src="@/assets/forbes.svg" alt="" class="section-1-image" />
+<!--&lt;!&ndash;        <img src="@/assets/forbes.svg" alt="" class="section-1-image" />&ndash;&gt;-->
 
-        <img src="@/assets/THP-2.svg" alt="" class="section-1-image" />
+<!--&lt;!&ndash;        <img src="@/assets/THP-2.svg" alt="" class="section-1-image" />&ndash;&gt;-->
 
-        <img src="@/assets/tnr-1.svg" alt="" class="section-1-image" />
+<!--&lt;!&ndash;        <img src="@/assets/tnr-1.svg" alt="" class="section-1-image" />&ndash;&gt;-->
 
-        <img src="@/assets/wall-street-1-2.svg" alt="" class="section-1-image" />
-      </div>
+<!--        <img src="@/assets/wall-street-1-2.svg" alt="" class="section-1-image" />-->
+<!--      </div>-->
 
 
-    </div>
+<!--    </div>-->
 
     <div class="the-footer">
 
@@ -69,13 +69,14 @@
                 <div class="last-div">
 <!--                  <i class='bx bxs-phone' ></i>-->
                   <i class='bx bxl-telegram'></i>
-                  <a href="https://t.me/officialservicelove" class="last-div-para">https://t.me/officialservicelove</a>
+                  <a href="https://t.me/Allureserv" class="last-div-para">https://t.me/Allureserv</a>
+
                 </div>
               </div>
               <div class="social-logo">
                 <div class="last-div">
                   <i class='bx bxs-map' ></i>
-                  <p class="last-div-para">15 Carrington St, Sydney NSW 2000, Australia</p>
+                  <p class="last-div-para">71-75 Uxbridge Road, London, England, W5 5SL</p>
                 </div>
               </div>
               <div class="social-logo">
@@ -134,7 +135,7 @@ export default {
 }
 
 .section-1-header{
-  color: #FFFFFF;
+  color: #222222;
   font-size: 30px;
   text-align: center;
   margin-top: 1%;
@@ -143,7 +144,7 @@ export default {
 
 .section-1-images{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-content: center;
   align-items: center;
   margin-left: 5%;

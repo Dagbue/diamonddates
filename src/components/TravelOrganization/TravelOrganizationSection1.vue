@@ -14,7 +14,7 @@
             who can maintain a pleasant atmosphere during it? Then contact the Allure Affiliations agency to arrange a
             turnkey trip. We will plan the best route for you and select a stunning companion.</p>
 
-          <button class="button">
+          <button class="button" @click="onPostClick">
             Send a Request
             <!--            <img src="@/assets/arrow-right-line.svg" alt="btn-image" class="btn-image" />-->
           </button>
@@ -30,7 +30,13 @@
 
 <script>
 export default {
-  name: "TravelOrganizationSection1"
+  name: "TravelOrganizationSection1",
+  methods: {
+    onPostClick() {
+      this.$router.push("/requestView");
+      window.scrollTo(0, 0);
+    },
+  },
 }
 </script>
 

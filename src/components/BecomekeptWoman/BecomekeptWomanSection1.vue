@@ -15,7 +15,7 @@
             chance to start a relationship with a rich man, improve your financial situation and never deny yourself
             anything else.</p>
 
-          <button class="button">
+          <button class="button" @click="onPostClick">
             Send a Request
             <!--            <img src="@/assets/arrow-right-line.svg" alt="btn-image" class="btn-image" />-->
           </button>
@@ -31,7 +31,13 @@
 
 <script>
 export default {
-  name: "BecomekeptWomanSection1"
+  name: "BecomekeptWomanSection1",
+  methods: {
+    onPostClick() {
+      this.$router.push("/requestView");
+      window.scrollTo(0, 0);
+    },
+  },
 }
 </script>
 

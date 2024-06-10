@@ -13,7 +13,7 @@
             a worthy partner. And we will also fully organize your acquaintance and suggest how best to start
             communication with a specific man in such a way as to win his heart.</p>
 
-          <button class="button">
+          <button class="button" @click="onPostClick">
             Send a Request
             <!--            <img src="@/assets/arrow-right-line.svg" alt="btn-image" class="btn-image" />-->
           </button>
@@ -33,7 +33,13 @@
 
 <script>
 export default {
-  name: "BecomekeptWomanSection3"
+  name: "BecomekeptWomanSection3",
+  methods: {
+    onPostClick() {
+      this.$router.push("/requestView");
+      window.scrollTo(0, 0);
+    },
+  },
 }
 </script>
 

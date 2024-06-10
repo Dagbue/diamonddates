@@ -8,7 +8,7 @@
             href="mailto:support@allureaffiliations.com">support@allureaffiliations.com</a></p>
       </div>
       <div class="seperate mobile">
-        <p class="download-sub">53 Bristol Road Bristol Road, Chippenham, England, SN15 1NT</p>
+        <p class="download-sub">71-75 Uxbridge Road, London, England, W5 5SL</p>
       </div>
 
       <div class="button-seprate" @click="onPostClick">
