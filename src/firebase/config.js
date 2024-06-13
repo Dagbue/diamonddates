@@ -25,7 +25,8 @@ const firebaseConfig = {
     projectId: "diamonddates-f3731",
     storageBucket: "diamonddates-f3731.appspot.com",
     messagingSenderId: "584121202045",
-    appId: "1:584121202045:web:9f87bfb7c1d3c7b28b8814"
+    appId: "1:584121202045:web:9f87bfb7c1d3c7b28b8814",
+    measurementId: "G-1G33N6BXXR"
 };
 
 // init firebase
