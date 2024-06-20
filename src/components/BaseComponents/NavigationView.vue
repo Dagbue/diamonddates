@@ -1,23 +1,23 @@
 <template>
   <div v-if="!$route.meta.hideNavigation" >
 
-    <div class="topmost-header">
-      <div class="topmost-header-1">
-        <p class="topmost-header-text">
-          <i class='bx bxs-map' ></i>
-          71-75 Uxbridge Road, London, England, W5 5SL
-        </p>
-
-        <p class="topmost-header-text">
-          <i class='bx bxs-time-five' ></i>Mon – Sun : 24hours.
-        </p>
-
+<!--    <div class="topmost-header">-->
+<!--      <div class="topmost-header-1">-->
 <!--        <p class="topmost-header-text">-->
-<!--          <i class='bx bxl-whatsapp'></i>+1 14355808033-->
+<!--          <i class='bx bxs-map' ></i>-->
+<!--          71-75 Uxbridge Road, London, England, W5 5SL-->
 <!--        </p>-->
 
-      </div>
-    </div>
+<!--        <p class="topmost-header-text">-->
+<!--          <i class='bx bxs-time-five' ></i>Mon – Sun : 24hours.-->
+<!--        </p>-->
+
+<!--&lt;!&ndash;        <p class="topmost-header-text">&ndash;&gt;-->
+<!--&lt;!&ndash;          <i class='bx bxl-whatsapp'></i>+1 14355808033&ndash;&gt;-->
+<!--&lt;!&ndash;        </p>&ndash;&gt;-->
+
+<!--      </div>-->
+<!--    </div>-->
 
     <div class="separate">
 
@@ -272,8 +272,8 @@ export default {
 
 .logo {
   width: 15%;
-  margin-top: 0.25%;
-  margin-bottom: 0.25%;
+  /*margin-top: 0.25%;*/
+  /*margin-bottom: 0.25%;*/
 }
 
 .style-4 {
