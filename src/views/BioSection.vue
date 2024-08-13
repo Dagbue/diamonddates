@@ -10,7 +10,7 @@
 
           <p class="text-3">Connect with mature, sophisticated women for engaging conversations, genuine companionship,
             and more. Discover the unique charm and meaningful connections they offer.</p>
-          <p class="text-4">Contact</p>
+          <p class="text-4" @click="scrollToSection('section1')" >Contact</p>
         </div>
 
       </div>
@@ -32,7 +32,7 @@
       connections. Discover the extraordinary appeal and profound relationships they bring."
     </p>
 
-    <div class="contact">
+    <div class="contact" id="section1" ref="section1" >
       <p class="text-6">contact information :</p>
       <p class="text-7">
         WhatsApp :
@@ -71,7 +71,15 @@ import FooterHome2 from "@/components/BaseComponents/FooterHome2.vue";
 
 export default {
   name: "BioSection",
-  components: {FooterHome2}
+  components: {FooterHome2},
+  methods: {
+    scrollToSection(sectionId) {
+      const section = this.$refs[sectionId] || document.getElementById(sectionId);
+      if (section) {
+        section.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+  }
 }
 </script>
 
