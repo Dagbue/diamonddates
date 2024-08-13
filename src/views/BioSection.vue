@@ -6,7 +6,8 @@
     <div class="section-1-alpha">
       <div class="section-1-part-1">
         <div class="container ">
-          <p class="text-2">Mei Ling</p>
+          <p class="text-2" style="color: #D3D3D3;">Mei Ling</p>
+
           <p class="text-3">Connect with mature, sophisticated women for engaging conversations, genuine companionship,
             and more. Discover the unique charm and meaningful connections they offer.</p>
           <p class="text-4">Contact</p>
@@ -22,9 +23,13 @@
     <!--    <p class="text-1">Get to know me  better.</p>-->
 
     <p class="text-5">
-      "Experience the charm  of mature, sophisticated women in a discreet and meaningful connection. Whether you're
-      seeking engaging conversations, genuine companionship, or something more, connect today and discover the unique
-      allure that only mature women can offer."
+      "Engage with accomplished, sophisticated women who offer genuine companionship, stimulating discussions,
+      and unique connections. Experience the unmatched charm and depth they provide."
+    </p>
+
+    <p class="text-5">
+      "Meet mature, elegant women who inspire with their wisdom, offer real companionship, and form lasting
+      connections. Discover the extraordinary appeal and profound relationships they bring."
     </p>
 
     <div class="contact">
@@ -107,14 +112,14 @@ export default {
 .container{
   background-color: #D3D3D3;
   border-radius: 10px;
-  padding: 20px 30px;
+  padding: 20px 35px;
   height: 450px;
   width: 350px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
 
 .text-2{
-  padding-bottom: 16%;
+  padding-bottom: 10%;
   padding-top: 10%;
   font-size: 20px;
   font-family: 'BR-Firma-SemiBold', sans-serif;
