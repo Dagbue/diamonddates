@@ -21,6 +21,12 @@ const routes = [
     component: () => import(/* webpackChunkName: "contact" */ '../views/ContactView.vue')
   },
   {
+    path: '/bio',
+    name: 'BioSection',
+    component: () => import(/* webpackChunkName: "contact" */ '../views/BioSection.vue'),
+    meta: { hideNavigation: true }
+  },
+  {
     path: '/faq',
     name: 'faq',
     component: () => import(/* webpackChunkName: "faq" */ '../views/FaqView.vue')
