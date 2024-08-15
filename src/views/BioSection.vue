@@ -37,7 +37,7 @@
       <p class="text-7">
         WhatsApp :
         <i class='bx bxl-whatsapp' style="color: #070e20;position: unset"></i>
-        +61 488872107
+        +61 488 872 106
       </p>
 
       <p class="text-7">
@@ -249,7 +249,6 @@ export default {
     height: 450px;
   }
 }
-
 
 @media only screen and (max-width: 768px) {
   .section-2-part-img{
